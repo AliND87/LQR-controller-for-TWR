@@ -9,4 +9,16 @@ appropriate Q and R matrices. the Luenberger observer enables
 LQR controller to meet the desired specification when states are
 not fully accessible in the output.
 
-https://i.postimg.cc/W4Crtwtp/TWR.png
+<hr/>
+
+ 
+ <figure>
+ <center>
+ <img src='https://i.postimg.cc/W4Crtwtp/TWR.png' width="250" 
+      height="250"/>
+ <figcaption>Training loss</figcaption>
+ </center>
+ </figure>
+
+
+
