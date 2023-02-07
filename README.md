@@ -16,7 +16,16 @@ not fully accessible in the output.
  <center>
  <img src='https://i.postimg.cc/W4Crtwtp/TWR.png' width="300" 
       height="450"/>
- <figcaption>Training loss</figcaption>
+ <figcaption>Two wheeled Robot</figcaption>
+ </center>
+ </figure>
+
+ 
+ <figure>
+ <center>
+ <img src='https://i.postimg.cc/NjQZP1s0/LQR-result-pitch-angles.png' width="350" 
+      height="300"/>
+ <figcaption>Two wheeled Robot</figcaption>
  </center>
  </figure>
 
