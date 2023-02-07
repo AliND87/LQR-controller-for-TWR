@@ -14,8 +14,8 @@ not fully accessible in the output.
  
  <figure>
  <center>
- <img src='https://i.postimg.cc/W4Crtwtp/TWR.png' width="250" 
-      height="250"/>
+ <img src='https://i.postimg.cc/W4Crtwtp/TWR.png' width="300" 
+      height="450"/>
  <figcaption>Training loss</figcaption>
  </center>
  </figure>
