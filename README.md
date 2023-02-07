@@ -25,7 +25,7 @@ not fully accessible in the output.
  <center>
  <img src='https://i.postimg.cc/NjQZP1s0/LQR-result-pitch-angles.png' width="350" 
       height="300"/>
- <figcaption>Two wheeled Robot</figcaption>
+ <figcaption>LQR-result-pitch-angles</figcaption>
  </center>
  </figure>
 
